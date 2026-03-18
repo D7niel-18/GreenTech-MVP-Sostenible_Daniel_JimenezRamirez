@@ -1,0 +1,29 @@
+body {
+    /* Fuentes de letra */
+    font-family: "Montserrat", sans-serif;
+    background-color: #f4fdf4; /* Color de fondo del body */
+    margin: 0;
+    }
+    .hero-gigante { /* div hero-gigante */
+        /* Imagen principal del fondo */
+    background-image: url("https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=3000&auto=format&fit=crop");
+    background-size: cover; /* Tamaño de la imagen */
+    background-position: center; /* Posicion de la imagen */
+    height: 100vh; /* Alto */
+    color: white; /* Color */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8); /* Sombras */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    }
+    .btn-eco-redundante { /* Estilos Boton quiero ayudar  */
+    background-color: #28a745 !important; /* Color fondo */
+    border-color: #1e7e34 !important; /* Color borde */
+    padding: 15px 40px; 
+    font-size: 1.5rem; /* Tamaño fuente */
+    border-radius: 50px; /* Bordes */
+    box-shadow: 0 4px 15px rgba(40, 167, 69, 0.4); /* Sombras */
+}
