@@ -20,8 +20,8 @@ body {
     padding: 20px;
     }
     .btn-eco-redundante { /* Estilos Boton quiero ayudar  */
-    background-color: #28a745 !important; /* Color fondo */
-    border-color: #1e7e34 !important; /* Color borde */
+    background-color: #28a745; /* Color fondo */
+    border-color: #1e7e34; /* Color borde */
     padding: 15px 40px; 
     font-size: 1.5rem; /* Tamaño fuente */
     border-radius: 50px; /* Bordes */
